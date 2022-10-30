@@ -1,0 +1,42 @@
+/** Style ***/
+.h1 {
+font-family: "Trirong", serif;
+text-allign: center;
+}
+  .bgcolr {
+  height: 100vh;
+    width: 100vw;
+    box-shadow: inset 33.33vw 0px 0px red, inset 66.66vw 0px 0px yellow, inset 99.99vw 0px 0px  blue;
+    margin: 0px;
+
+  }
+  .container {
+  display: inline-block;
+  position: relative;
+  padding-left: 450px;
+  padding-top: 350px;
+ }
+
+ .border {
+ width: 100%;
+ padding: 10px 20px;
+ border: 1px solid #ccc;
+ background: #fff;
+ }
+
+ .ent {
+width: 100%;
+ }
+
+ .glofs {
+ content: 50%;
+ margin: auto;
+ }
+ /*logo position*/
+ .middle {
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ padding-top: 100px;
+ padding-bottom: auto;
+ }
